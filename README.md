@@ -1,6 +1,6 @@
 # BIEN
 
-**BIEN** BIEN is a data−driven machine learning technique that enables predictor/model selection and parameter inference simultaneously. 
+**BIEN** is a data−driven machine learning technique that enables predictor/model selection and parameter inference simultaneously. 
 
 The method generates candidate covariate sets across elastic-net tuning parameters, evaluates the generated covariate sets using BIC after unpenalized refitting, and applies backward BIC selection to the best model.
 
@@ -113,7 +113,7 @@ If you use BIEN in your research, please cite:
 **Bagherzadeh-Khiabani F, et al. Associational Inference with Many Potential Covariates: Bayesian Information Criterion Elastic Net. Manuscript under review in BMC Medical Research Methodology.**  
 ## References
 
-For the full BIEN algorithm of BIEN, see Figure 1 in the manuscript above.
+For the full algorithm of BIEN, see Figure 1 in the manuscript above.
 
 For the conceptual framework of BIEN, see Supplementary Figure 4 in:
 
